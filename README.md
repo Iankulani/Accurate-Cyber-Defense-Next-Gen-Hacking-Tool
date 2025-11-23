@@ -18,12 +18,13 @@ With an intuitive command-line interface and optional GUI, it bridges the gap be
 
 From advanced penetration testing to automated incident response, this tool is your ultimate cyber arsenal for modern digital warfare and defense.
 
-**How to clone the repo**
-
+## How to clone the repo
+```bash
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Next-Gen-Hacking-Tool.git
 
 cd Accurate-Cyber-Defense-Next-Gen-Hacking-Tool
-
-**How to run**
-
+```
+## How to run
+```bash
 python3 Accurate-Cyber-Defense-Next-Gen-Hacking-Tool.py 
+```
